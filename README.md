@@ -19,6 +19,7 @@ Then add new project to Game.sln via visual studio.
 ## ApplesGame
 This is project of first course block. Simple game with square, representing the player, which moves in four direction and eats "Apples". Each eaten apple increases the speed of player.
 If player collides with the wall - the game is over.
+Also project of first homework for second block.
 
 ## SFML
 This directory contains the entire compiled SFML library for simplifying things. There is SFML VS project to maka easy access to SFML headers inside IDE.
